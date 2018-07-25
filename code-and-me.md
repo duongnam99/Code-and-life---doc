@@ -31,7 +31,7 @@ Tôi bắt đầu thấy một kiểu mẫu. Là một "luật sư bào chữa",
 
 Một số nhân vật lớn nhất trong lịch sử của chúng ta đã nhấn mạnh rằng họ là những người bình thường và đưa ra những quyết định và lựa chọn phi thường. Những người đáng chú ý thường làm những điều không đáng kể và những người bình thường thường làm những điều đáng chú ý.  
 
-Rõ ràng, niềm tin của tôi đã sai. Có thể “thông minh” là một khái niệm tự giới hạn, bởi vì nó cho thấy bạn được sinh ra với nó hay là không. Đây là một xu hướng văn hóa, một niềm tin rằng thông minh là một thuộc tính tĩnh, thiên phú, bẩm sinh, đặc trưng. Trên thực tế, thông minh cũng như kỹ năng và có thể thay đổi. Bạn có thể thay đổi nó, theo đúng định hướng, với nỗ lực liên tục.  
+Rõ ràng, niềm tin của tôi đã sai. Có thể “thông minh” là một khái niệm tự giới hạn, bởi vì nó cho thấy bạn được sinh ra với nó hay là không. Đây là một xu hướng văn hóa, một niềm tin rằng thông minh là cố định, thiên phú, bẩm sinh, đặc trưng. Trên thực tế, thông minh cũng như kỹ năng và có thể thay đổi. Bạn có thể thay đổi nó, theo đúng định hướng, với nỗ lực liên tục.  
 
 Do vậy, tôi cũng đã từng có quan niệm sai lầm như vậy. Tôi từng nghĩ bạn phải có trí "thông minh" tuyệt vời để trở thành lập trình viên, cũng như những người khác cho rằng tôi phải cực kỳ "thông minh" để có thể trở thành luật sư.  
 
