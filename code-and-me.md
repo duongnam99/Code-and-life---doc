@@ -7,7 +7,7 @@ Tôi phải thừa nhận điều này: tôi yêu code. Nhưng không phải lú
 
 Thành thật thì coding là việc duy nhất nhất tôi từng làm khi mà phần lớn thời gian tôi 'thất bại'. Code lỗi là điều bình thường, việc sửa chúng, tìm bug và build các thứ hoạt động trôi chảy đòi hỏi rất nhiều kiên nhẫn, nghiên cứu, tập trung và kiên trì. Nhưng những bài học rút ra sẽ giúp bạn phát triển.
 
-Khi chúng ta già đi, chúng ta tin vào những thứ khiến ta mất động lực. Thái độ và kỳ vọng của chúng ta bắt đầu đi đến giới hạn bản thân một cách vô thức. Ngay cả khi tâm trí của chúng ta chấp nhận khoa học thần kinh, tiềm thức của chúng ta vẫn không tiếp thu kiến thức này. Trên thực tế, chúng ta thậm chí còn không ý thức được những lý do hợp lý đi qua hệ thần kinh của chúng ta, vì sao chúng ta không tiếp nhận được những kiến thức và kỹ năng mới.  
+Khi chúng ta già đi, chúng ta tin vào những thứ khiến ta mất động lực. Thái độ và kỳ vọng của chúng ta bắt đầu đi đến giới hạn bản thân một cách vô thức. Ngay cả khi tâm trí của chúng ta chấp nhận khoa học thần kinh, tiềm thức của chúng ta vẫn không tiếp thu kiến thức này. Trên thực tế, chúng ta thậm chí còn không ý thức được những lý do hợp lý đi qua t của chúng ta, vì sao chúng ta không tiếp nhận được những kiến thức và kỹ năng mới.  
 
 Đây là một số điều bạn sẽ nhận ra: 
 
