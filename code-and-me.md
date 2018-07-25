@@ -23,11 +23,11 @@ Khi chúng ta già đi, chúng ta tin vào những thứ khiến ta mất độn
 Chỉ điều cuối cùng là đúng, và không theo cách mà bạn đang dùng nó.  
 
 
-Trong nhiều năm, tôi đã nghĩ rằng phải thông minh ngoại hạng mới có thể trở thành lập trình viên. ó như là siêu năng lực về trí tuệ. Chỉ khi tôi đọc về Jack Dorsey, Elon Musk, Bill Gates, Steve Wozniak, và nhiều người khác tự học, như những đứa trẻ, trong thời kỳ tiền Internet mà tôi bắt đầu nghĩ - khoan đã, nó không đúng. Nếu những người trên có thể tự học như những đứa trẻ , khi mà tất cả những gì họ có là các dự án ở trường học và các sách hướng dẫn cũ, thì điều này không phải là do họ là thiên tài bẩm sinh. Đây là do nỗ lực liên tục và thời gian bỏ ra.  
+Trong nhiều năm, tôi đã nghĩ rằng phải thông minh ngoại hạng mới có thể trở thành lập trình viên. Dường như bạn cần một siêu năng lực về trí tuệ. Chỉ khi tôi đọc về Jack Dorsey, Elon Musk, Bill Gates, Steve Wozniak, và nhiều người khác tự học, như những đứa trẻ, trong thời kỳ tiền Internet mà tôi bắt đầu nghĩ - khoan đã, nó không đúng. Nếu những người trên có thể tự học như những đứa trẻ , khi mà tất cả những gì họ có là các dự án ở trường học và các sách hướng dẫn cũ, thì điều này không phải là do họ là thiên tài bẩm sinh. Đây là do nỗ lực liên tục và thời gian bỏ ra.  
 
 Tôi bắt đầu nghiên cứu thêm và nhận ra rằng rất nhiều lập trình viên tự học và không tự xem mình là người có năng khiếu. Giống như tất cả các kỹ năng khác, các trường hợp ngoại lệ là có năng khiếu. Nhưng họ là ngoại lệ. Những người tốt và giỏi cứ làm việc đó, lặp đi lặp lại, cho đến khi họ có đủ tốt để làm bất cứ điều gì họ muốn.  
 
-Tôi bắt đầu thấy một kiểu mẫu. Là một "luật sư bào chữa", tôi đã được nghe rằng "bạn phải thực sự thông minh để trở thành một luật sư". Tôi không đồng tình. Nếu bạn suy ngẫm về điều đó, tôi chắc chắn bạn đã gặp những người thông minh và không thông minh trong mọi tầng lớp xã hội, và ngạc nhiên là, trong cùng tầng lớp với bạn. Và mặt khác, một số người mà bạn cho là phải thông minh để làm những gì họ muốn hóa ra lại là những người rất bình thường.  
+Tôi bắt đầu thấy một kiểu mẫu. Là một "cựu luật sư", tôi đã được nghe rằng "bạn phải thực sự thông minh để trở thành một luật sư". Tôi không đồng tình. Nếu bạn suy ngẫm về điều đó, tôi chắc chắn bạn đã gặp những người thông minh và không thông minh trong mọi tầng lớp xã hội, và ngạc nhiên là, trong cùng tầng lớp với bạn. Và mặt khác, một số người mà bạn cho là phải thông minh để làm những gì họ muốn hóa ra lại là những người rất bình thường.  
 
 Một số nhân vật lớn nhất trong lịch sử của chúng ta đã nhấn mạnh rằng họ là những người bình thường và đưa ra những quyết định và lựa chọn phi thường. Những người đáng chú ý thường làm những điều không đáng kể và những người bình thường thường làm những điều đáng chú ý.  
 
@@ -39,7 +39,7 @@ Bạn có thể tưởng tượng nếu Henry Ford, Edison, Jobs, anh em nhà Wr
 
 Không, nó không đáng để tưởng tượng.  
 
-Thay vào đó, hãy tập trung vào cách chúng ta hạn chế và kìm hãm chính mình khỏi việc học thông qua sự kết hợp giữa niềm tin và kỳ vọng sai lệch. Bằng cách đó, chúng ta có thể tự điều chỉnh khi chúng ta tự kìm hãm bản thân. Tốt hơn, chúng ta có thể đảm bảo những đứa trẻ của chúng ta sẽ không bị ảnh hưởng bởi những suy nghĩ sai lệch.
+Thay vào đó, hãy tập trung vào cách chúng ta hạn chế và kìm hãm chính mình khỏi việc học những niềm tin và kỳ vọng sai lệch ấy. Bằng cách đó, chúng ta có thể tự điều chỉnh khi chúng ta tự kìm hãm bản thân. Tốt hơn, chúng ta có thể đảm bảo những đứa trẻ của chúng ta sẽ không bị ảnh hưởng bởi những suy nghĩ sai lệch.
 #### Niềm tin sai lầm #1: Thông minh là bẩm sinh  
 
 Không. Đó là do rèn luyện. Và vì nó luôn có tính tương đối, bạn sẽ luôn dốt hơn người khác, vì vậy hãy tiếp tục phát triển.  
@@ -74,7 +74,7 @@ Vậy hãy để tôi chốt lại. Động lực là là kết quả của vi�
 Hãy để tôi làm rõ điều này  
 
 
-Nó từng khóa, vẫn khó và sẽ tiếp tục khó. [Ngay cả giờ đây tôi có đấu tranh nội tâm](https://medium.com/my-mindset-mission/for-the-record-i-am-
+Nó từng khó, vẫn khó và sẽ tiếp tục khó. [Ngay cả giờ đây tôi có đấu tranh nội tâm](https://medium.com/my-mindset-mission/for-the-record-i-am-
 constantly-battling-doubt-4128409df7dc),hầu hết mỗi ngày, với những thứ mà tôi đã làm hàng năm trời. 1 vài ngày tôi có động lực làm việc, nhưng tâm trí tôi vẫn như muốn nói với tôi hãy chọn cách dễ dàng.    
 
 Không phải lúc nào tôi cũng muốn luyện tập code, đọc sách, đạp xe thay vì đi xe điện, tập gym, kiêng ăn bằng chiếc bánh nữa. Tôi gần như không bao giờ cảm thấy thích điều này.Mỗi ngày, tâm trí của tôi có hàng trăm lý do hay những cách khiến tôi chọn cách dễ dàng. Điều dễ dàng hơn, là nhận ra những gì tâm trí mình đang làm. Bởi vì như Tony Robbins nói:  
